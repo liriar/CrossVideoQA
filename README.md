@@ -61,10 +61,10 @@ Each QA pair falls under one of four spatial-temporal reasoning configurations:
 
 | Modality               | Description                                              |
 |------------------------|----------------------------------------------------------|
-| `Msingle`              | Within a single video (same location, same day)          |
-| `Mcross-spatial`       | Across multiple locations within the same time frame     |
-| `Mcross-temporal`      | Same location but across different dates                 |
-| `Mcross-spatiotemporal`| Full spatial-temporal integration                        |
+| `single`              | Within a single video (same location, same day)          |
+| `cross-spatial`       | Across multiple locations within the same time frame     |
+| `cross-temporal`      | Same location but across different dates                 |
+| `cross-spatiotemporal`| Full spatial-temporal integration                        |
 
 This design enables systematic evaluation of models across increasing levels of complexity.
 
