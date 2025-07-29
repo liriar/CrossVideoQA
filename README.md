@@ -22,7 +22,7 @@ Existing video QA datasets are limited to single-source settings. **CrossVideoQA
 CrossVideoQA integrates two complementary datasets:
 
 We thank the University of Edinburgh for the use of the low resolution video and ground truth data.
-- **[Edinburgh Office Surveillance Dataset (EOSD)]((https://homepages.inf.ed.ac.uk/rbf/OFFICEDATA/))**  
+- **[Edinburgh Office Surveillance Dataset (EOSD)](https://homepages.inf.ed.ac.uk/rbf/OFFICEDATA/)**  
   - 20 surveillance videos  
   - 3 indoor locations across 12 dates  
   - ~450,000 frames  
