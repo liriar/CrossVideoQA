@@ -37,13 +37,11 @@ We thank the University of Edinburgh for the use of the low resolution video and
 **Combined Dataset:**  
 > `DCrossVideoQA = DEOSD ∪ DHACS`
 
-
----
-### 🧪 Task Categories
+###  Task Categories
 
 CrossVideoQA questions are categorized into:Person Recognition、Behavior Analysis and Summarization & Causal Inference.
 
-### 🔍 Reasoning Modalities
+###  Reasoning Modalities
 
 Each QA pair falls under one of four spatial-temporal reasoning configurations:
 
@@ -96,4 +94,3 @@ If you use this benchmark, please cite:
   year      = {2025},
   url       = {https://openreview.net/forum?id=bUioJlKXN6}
 }
-
