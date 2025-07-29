@@ -37,16 +37,8 @@ We thank the University of Edinburgh for the use of the low resolution video and
 **Combined Dataset:**  
 > `DCrossVideoQA = DEOSD ∪ DHACS`
 
+
 ---
-
-## 📊 Dataset Statistics & Structure
-
-- **Total videos used:** 100  
-- **Total QA pairs:** 197  
-- **Average video duration:** ~3 min  
-- **Average number of video segments per question:** 2.33  
-- **Reasoning depth:** From low-level perception to high-level causal reasoning
-
 ### 🧪 Task Categories
 
 CrossVideoQA questions are categorized into:Person Recognition、Behavior Analysis and Summarization & Causal Inference.
@@ -87,14 +79,14 @@ We adopt a three-stage QA construction process:
 
 ## 📥 Data Access
 
-The full dataset (videos + QA annotations) will be released soon.  
+The full benchmark will be released soon.  
 Stay tuned!
 
 ---
 
 ## 📄 Citation
 
-If you use this dataset, please cite:
+If you use this benchmark, please cite:
 
 ```bibtex
 @inproceedings{anonymous2025videoforest,
