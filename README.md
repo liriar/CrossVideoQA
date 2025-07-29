@@ -1,6 +1,8 @@
 # CrossVideoQA: A Benchmark for Cross-Video Reasoning
 
 **CrossVideoQA** is a comprehensive benchmark dataset designed to evaluate **cross-video reasoning** capabilities, with a special focus on **human-centric queries** spanning different spatial locations and temporal periods.
+> 🌲 This benchmark is introduced in our **ACMMM 2025** paper:  
+> [**VideoForest: Person-Anchored Hierarchical Reasoning for Cross-Video Question Answering**](https://openreview.net/forum?id=bUioJlKXN6)
 
 ---
 
@@ -19,18 +21,18 @@ Existing video QA datasets are limited to single-source settings. **CrossVideoQA
 
 CrossVideoQA integrates two complementary datasets:
 
-- **Edinburgh Office Surveillance Dataset (EOSD)**  
-  - 18 surveillance videos  
+We thank the University of Edinburgh for the use of the low resolution video and ground truth data.
+- **[Edinburgh Office Surveillance Dataset (EOSD)]((https://homepages.inf.ed.ac.uk/rbf/OFFICEDATA/))**  
+  - 20 surveillance videos  
   - 3 indoor locations across 12 dates  
   - ~450,000 frames  
   - Suitable for structured, multi-day human behavior analysis  
-  - Video length: 6–21 min (avg ~14 min)
 
-- **HACS (Human Action Clips and Segments)**  
+
+- **[HACS (Human Action Clips and Segments)](http://hacs.csail.mit.edu/)**  
   - 50,000 web videos  
   - 1.55 million action clips  
   - High visual and semantic diversity  
-  - Clip length: 9 sec – 4 min (avg ~2 min)
 
 **Combined Dataset:**  
 > `DCrossVideoQA = DEOSD ∪ DHACS`
@@ -47,13 +49,7 @@ CrossVideoQA integrates two complementary datasets:
 
 ### 🧪 Task Categories
 
-CrossVideoQA questions are categorized into:
-
-| Category                      | Count |
-|------------------------------|-------|
-| Person Recognition           | 56    |
-| Behavior Analysis            | 81    |
-| Summarization & Causal Inference | 60    |
+CrossVideoQA questions are categorized into:Person Recognition、Behavior Analysis and Summarization & Causal Inference.
 
 ### 🔍 Reasoning Modalities
 
@@ -85,4 +81,27 @@ We adopt a three-stage QA construction process:
      - Answerability
      - Accuracy
      - Balanced difficulty
+
+
+---
+
+## 📥 Data Access
+
+The full dataset (videos + QA annotations) will be released soon.  
+Stay tuned!
+
+---
+
+## 📄 Citation
+
+If you use this dataset, please cite:
+
+```bibtex
+@inproceedings{anonymous2025videoforest,
+  title     = {VideoForest: Person-Anchored Hierarchical Reasoning for Cross-Video Question Answering},
+  author    = {Yiran Meng and Junhong Ye and Wei Zhou and Guanghui Yue and Xudong Mao and Ruomei Wang and Baoquan Zhao},
+  booktitle = {ACM Multimedia 2025},
+  year      = {2025},
+  url       = {https://openreview.net/forum?id=bUioJlKXN6}
+}
 
