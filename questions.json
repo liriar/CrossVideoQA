@@ -1,0 +1,1956 @@
+[
+  {
+    "id": "office_single_video_001",
+    "question": "Did July 1st, Office A ever have a moment where 3 people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_002",
+    "question": "Did July 3rd, Office C ever have a moment where 2 people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_003",
+    "question": "Did July 2nd, Office B ever have a moment where no one appeared?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_004",
+    "question": "What is the maximum number of people who appeared simultaneously in July 3rd, Office A?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_single_video_005",
+    "question": "Did July 2nd, Office A have anyone who wore glasses?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_006",
+    "question": "At what time did the first instance of at least two people appearing occur on July 1st, Office A?",
+    "options": {
+      "A": "-25.714286 seconds",
+      "B": "21.428571 seconds",
+      "C": "51.428571 seconds"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_single_video_007",
+    "question": "How many people were in July 2nd, Office C at 120 seconds?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_008",
+    "question": "What is the total duration in which two people were present on July 2nd, Office B?",
+    "options": {
+      "A": "25.714286 seconds",
+      "B": "51.428571 seconds",
+      "C": "102.857143 seconds"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_single_video_009",
+    "question": "Did July 3rd, Office C ever have a moment where 3 people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_single_video_010",
+    "question": "Did July 1st, Office C ever have a moment where 2 people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_011",
+    "question": "Did July 3rd, Office A ever have a moment where 3 people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_single_video_012",
+    "question": "What is the total duration in which only one person was present in July 2nd, Office C?",
+    "options": {
+      "A": "102.857143 seconds",
+      "B": "205.714286 seconds",
+      "C": "308.571429 seconds"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_single_video_013",
+    "question": "How long was the total time when only one person was in July 3rd, Office B?",
+    "options": {
+      "A": "411.428571 seconds",
+      "B": "514.285714 seconds",
+      "C": "617.142857 seconds"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_single_video_014",
+    "question": "How many people were present in July 3rd, Office A at 60 seconds?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_015",
+    "question": "What is the total duration when no one was in July 3rd, Office C?",
+    "options": {
+      "A": "308.571429 seconds",
+      "B": "462.857143 seconds",
+      "C": "514.285714 seconds"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_single_video_016",
+    "question": "Did July 3rd, Office A have any special behaviors such as fighting, falling, or lying down?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_017",
+    "question": "Did anyone use multiple monitors at the same time in July 2nd, Office B?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_018",
+    "question": "Did anyone wear a safety jacket before leaving in July 1st, Office A?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_019",
+    "question": "Did anyone stand continuously for over 60 seconds in July 1st, Office A?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_020",
+    "question": "Did anyone use a whiteboard in July 2nd, Office B?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_021",
+    "question": "Did anyone eat inside July 3rd, Office A?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_single_video_022",
+    "question": "Did July 2nd, Office A have no group discussions with two or more people?",
+    "options": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_023",
+    "question": "Based on the whiteboard content, which subject is most likely discussed in July 1st, Office A?",
+    "options": {
+      "A": "Science",
+      "B": "Literature",
+      "C": "Art"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_024",
+    "question": "Based on the last actions of the person leaving July 1st, Office A, what did they take with them?",
+    "options": {
+      "A": "Laptop",
+      "B": "Backpack",
+      "C": "Documents"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_single_video_025",
+    "question": "What are the most common work modes in July 1st, Office C?",
+    "options": {
+      "A": "Working alone at the computer, group discussion at the desk",
+      "B": "Standing and using the whiteboard for group discussions",
+      "C": "Working alone at the computer, standing and using the whiteboard"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_single_video_026",
+    "question": "Based on the number of people and frequency, is July 3rd, Office A more likely to be a private or an open office?",
+    "options": {
+      "A": "Private office",
+      "B": "Open office"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_date_001",
+    "question": "Did both July 1st office A and July 2nd office A have instances where three people appeared simultaneously?",
+    "options": {
+      "A": "only in July 1st office A",
+      "B": "Yes",
+      "C": "Only in July 2nd office A"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_date_002",
+    "question": "Did both July 1st office A and July 2nd office A have instances where two people appeared simultaneously?",
+    "options": {
+      "A": "only in July 1st office A",
+      "B": "Yes",
+      "C": "Only in July 2nd office A"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_date_003",
+    "question": "Did both July 1st office A and July 2nd office A have instances where no one appeared simultaneously?",
+    "options": {
+      "A": "No",
+      "B": "Yes",
+      "C": "Only in July 1st office A"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_date_004",
+    "question": "Which office had more people appearing simultaneously: July 1st office A or July 2nd office A?",
+    "options": {
+      "A": "July 2nd office A",
+      "B": "July 1st office A",
+      "C": "Both had the same number"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_date_005",
+    "question": "Did both July 1st office A and July 2nd office A have people wearing glasses?",
+    "options": {
+      "A": "No",
+      "B": "Yes",
+      "C": "Only in July 1st office A"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_date_006",
+    "question": "Which event happened earlier at the time of that day: the first shot in July 1st office A with at least two people or the first shot in July 2nd office A with no one present?",
+    "options": {
+      "A": "First shot in July 1st office A with at least two people",
+      "B": "First shot in July 2nd office A with no one present",
+      "C": "Both happened at the same time"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_date_007",
+    "question": "When  three people first appear in July 1st office A,how many people were present in July 2nd office A at that time?",
+    "options": {
+      "A": "One person in July 2nd office A",
+      "B": "Two people in July 2nd office A",
+      "C": "No one in July 2nd office A"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_date_008",
+    "question": "Which office had a longer total time with no one present on the day: July 1st office A or July 2nd office A?",
+    "options": {
+      "A": "July 1st office A",
+      "B": "July 2nd office A",
+      "C": "Both had the same amount of time"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_date_009",
+    "question": "Did both July 1st office A and July 3rd office A have instances where three people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st office A",
+      "C": "No, Only in July 3rd office A"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_date_010",
+    "question": "Did both July 1st office A and July 3rd office A have instances where two people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st office A",
+      "C": "Only in July 3rd office A"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_date_011",
+    "question": "Did both July 1st office A and July 3rd office A have instances where no one appeared?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st office A",
+      "C": "Only in July 3rd office A"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_date_012",
+    "question": "Which office had more people appearing simultaneously: July 1st office A or July 3rd office A?",
+    "options": {
+      "A": "July 1st office A",
+      "B": "July 3rd office A",
+      "C": "Both had the same number"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_date_013",
+    "question": "Which office had a longer total time with no one present on the day: July 1st office A or July 3rd office A?",
+    "options": {
+      "A": "July 1st office A",
+      "B": "July 3rd office A",
+      "C": "Both had the same amount of time"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_date_014",
+    "question": "Did July 1st office A or July 3rd office A have instances of people performing special behaviors (lying ,fighting or falling down)?",
+    "options": {
+      "A": "Yes, only in July 1st office A",
+      "B": "Yes, only in July 3rd office A",
+      "C": "No, neither had such behaviors"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_date_015",
+    "question": "Did either July 1st office A or July 2nd office A have people using a laptop on the left side of the screen?",
+    "options": {
+      "A": "Yes, only in July 1st office A",
+      "B": "Yes, only in July 2nd office A",
+      "C": "Yes, in both"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "office_cross_date_016",
+    "question": "Did either July 1st office A or July 2nd office A have someone wearing or picking up a safety jacket?",
+    "options": {
+      "A": "Yes, only in July 1st office A",
+      "B": "Yes, only in July 2nd office A",
+      "C": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_date_017",
+    "question": "Did either July 1st office A or July 2nd office A have someone putting on or taking off clothes?",
+    "options": {
+      "A": "Yes, only in July 1st office A",
+      "B": "Yes, only in July 2nd office A",
+      "C": "Yes, in both"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "office_cross_date_018",
+    "question": "Did either July 2nd office A or July 3rd office A have people possibly using a whiteboard(or standing near) when more than one person is in the scene?",
+    "options": {
+      "A": "Yes, only in July 2nd office A",
+      "B": "Yes, only in July 3rd office A",
+      "C": "No"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_date_019",
+    "question": "Did both July 1st office A and July 3rd office A have safety jackets appearing in the footage?",
+    "options": {
+      "A": "Yes, only in July 1st office A",
+      "B": "Yes, only in July 3rd office A",
+      "C": "Yes, in both"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "office_cross_date_020",
+    "question": "Did both July 1st office A and July 2nd office A have people using a phone in the footage?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st office A",
+      "C": "No, only in July 2nd office A"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_date_021",
+    "question": "Did people use a computer in all of July 1st office A, July 2nd office A, and July 3rd office A?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in some offices",
+      "C": "No, in none"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_date_022",
+    "question": "What is the most likely scenario for the setting in both July 1st office A and July 2nd office A?",
+    "options": {
+      "A": "Academic office",
+      "B": "bedroom",
+      "C": "Break room"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_date_023",
+    "question": "Based on the last actions of people in July 1st office A and July 3rd office A, what is most likely needed before they leave the office?",
+    "options": {
+      "A": "Use a safety jacket",
+      "B": "turn off computer",
+      "C": "clear whiteboard"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_date_024",
+    "question": "What is the most likely subject on the whiteboard in both July 1st office A and July 3rd office A?",
+    "options": {
+      "A": "Humanities",
+      "B": "Science",
+      "C": "Business"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_date_025",
+    "question": "Which statement could conclude the trend of number of people in July 1st office A and July 2nd in office A?",
+    "options": {
+      "A": "In office A, discussion with more than two people happended frequently on July 1st , and single-person work happened frequently on July 2nd",
+      "B": "In office A, discussion with more than two people happended frequently on July 2nd , and single-person work happened frequently on July 1st"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_place_001",
+    "question": "Did both July 1st office A and July 1st office B have instances where three people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st office A",
+      "C": "No, only in July 1st office B"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_place_002",
+    "question": "Did both July 1st office A and July 1st office C have instances where two people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st office A",
+      "C": "No, only in July 1st office C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_place_003",
+    "question": "Did both July 1st office B and July 1st office C have instances where no one appeared on camera?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st office B",
+      "C": "No, only in July 1st office C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_place_004",
+    "question": "Which location had the most people simultaneously appearing: July 3rd office A or July 3rd office B?",
+    "options": {
+      "A": "July 3rd office A",
+      "B": "July 3rd office B",
+      "C": "Both had the same number of people"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_place_005",
+    "question": "Did both July 1st office A and July 1st office B have people wearing glasses?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st office A",
+      "C": "No, only in July 1st office B"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_place_006",
+    "question": "Which scene began earlier: the first shot in July 1st office A where at least two people appeared or the first shot in July 1st office B where no one was present?",
+    "options": {
+      "A": "The shot in July 1st office A where at least two people appeared",
+      "B": "The shot in July 1st office B where no one was present",
+      "C": "Both began at the same time"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_place_007",
+    "question": "How many people were there in July 1st office B when the first instance of three people appeared in July 1st office A?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "0"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "office_cross_place_008",
+    "question": "Which location had a longer total time without any people on July 1st: office A or office B?",
+    "options": {
+      "A": "July 1st office A",
+      "B": "July 1st office B",
+      "C": "Both had the same amount of time"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_place_009",
+    "question": "Did both July 2nd office A and July 2nd office B have instances where three people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No, neither office had three people simultaneously",
+      "C": "No, only in July 2nd office A"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_place_010",
+    "question": "Did both July 3rd office B and July 3rd office C have instances where two people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 3rd office C",
+      "C": "No, only in July 3rd office B"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_place_011",
+    "question": "Did both July 2nd office A and July 2nd office C have instances where no one appeared on camera?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 2nd office A",
+      "C": "No, only in July 2nd office C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_place_012",
+    "question": "Which location had the most people appearing simultaneously on July 3rd: office A or office B?",
+    "options": {
+      "A": "July 3rd office A",
+      "B": "July 3rd office B",
+      "C": "Both had the same number of people"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_place_013",
+    "question": "Which location had a longer total time without any people on July 3rd: office B or office C?",
+    "options": {
+      "A": "July 3rd office B",
+      "B": "July 3rd office C",
+      "C": "Both had the same amount of time"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_place_014",
+    "question": "Which location had the most people appearing simultaneously on July 3rd at 60 seconds?",
+    "options": {
+      "A": "Office A",
+      "B": "Office B",
+      "C": "Office C"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "office_cross_place_015",
+    "question": "Did  July 3rd office A and July 3rd office B have instances where special behaviors occurred  (lying ,fighting or falling down)?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 3rd office A",
+      "C": "No, only in July 3rd office B"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_place_016",
+    "question": "Is it possible that both July 2nd office A and July 2nd office C had people using a laptop (not a computer)?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 2nd office A",
+      "C": "No, only in July 2nd office C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_place_017",
+    "question": "Did either July 3rd office A or July 3rd office B have people wearing or picking up a safety jacket?",
+    "options": {
+      "A": "Yes, only in July 3rd office A",
+      "B": "Yes, only in July 3rd office B",
+      "C": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_place_018",
+    "question": "Did both July 1st office A and July 1st office C have people standing for more than 60 seconds?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st office A",
+      "C": "No, only in July 1st office C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_place_019",
+    "question": "Did both July 2nd office B and July 2nd office C have people interacting with a whiteboard?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 2nd office B",
+      "C": "No, only in July 2nd office C"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_place_020",
+    "question": "In the footage from both July 1st office A and July 1st office B, what item appeared only in office A and not in office B?",
+    "options": {
+      "A": "Whiteboard",
+      "B": "Cabinet",
+      "C": "Desk lamp"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_place_021",
+    "question": "Did both July 1st office B and July 1st office C have people possibly using a phone?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st office B",
+      "C": "No, only in July 1st office C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_place_022",
+    "question": "Did all July 2nd offices (A, B, and C) have people using a computer?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 2nd office A",
+      "C": "No, only in July 2nd office B"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_place_023",
+    "question": "What is the most likely scenario in the footage from July 1st office A and July 1st office B?",
+    "options": {
+      "A": "Office meeting",
+      "B": "Academic office",
+      "C": "Private office"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_place_024",
+    "question": "Based on the last behavior of people in July 1st office A and July 1st office C, what did they take with them when leaving the office?",
+    "options": {
+      "A": "Laptop",
+      "B": "Backpack",
+      "C": "Documents"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_place_025",
+    "question": "Which location used the whiteboard most frequently on July 2nd?",
+    "options": {
+      "A": "Office A",
+      "B": "Office B",
+      "C": "Office C"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_place_026",
+    "question": "Summarize the number trend of people in different locations on July 1st.",
+    "options": {
+      "A": "Office A and Office C included both single-person work and group discussions, while office B was mainly single-person work",
+      "B": "Office A was mainly for discussions, while offices B and C had less activity",
+      "C": "Most offices had similar activity trends"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_001",
+    "question": "Did both July 1st in Office A and July 2nd in Office B have moments where three people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st in Office A",
+      "C": "No, only in July 2nd in Office B"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_video_002",
+    "question": "Did both July 1st in Office A and July 3rd in Office C have moments where two people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st in Office A",
+      "C": "No, only in July 3rd in Office C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_003",
+    "question": "Did both July 2nd in Office B and July 1st in Office C have moments where no one appeared in the shot?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 2nd in Office B",
+      "C": "No, only in July 1st in Office C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_004",
+    "question": "Which location had the most people appearing simultaneously: July 3rd in Office A or July 1st in Office B?",
+    "options": {
+      "A": "July 3rd in Office A",
+      "B": "July 1st in Office B",
+      "C": "Both had the same number of people"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_005",
+    "question": "Did both July 2nd in Office A and July 1st in Office B have people wearing glasses?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st in Office A",
+      "C": "No, only in July 2nd in Office A"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_video_006",
+    "question": "Which location had the earliest shot with at least two people appearing: July 1st in Office A or July 3rd in Office C?",
+    "options": {
+      "A": "July 1st in Office A",
+      "B": "July 3rd in Office C",
+      "C": "Both began at the same time"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_video_007",
+    "question": "At the earliest moment on the day when three people appeared in July 1st in Office A, how many people appeared in July 2nd in Office C at the same time?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "0"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_008",
+    "question": "Which location had a longer total time without anyone on camera: July 1st in Office B or July 3rd in Office A?",
+    "options": {
+      "A": "July 1st in Office B",
+      "B": "July 3rd in Office A",
+      "C": "Both had the same amount of time"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_009",
+    "question": "Did both July 2nd in Office C and July 3rd in Office B have moments where three people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 2nd in Office C",
+      "C": "No, only in July 3rd in Office B"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_video_010",
+    "question": "Did both July 3rd in Office B and July 1st in Office C have moments where two people appeared simultaneously?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 3rd in Office B",
+      "C": "No, only in July 1st in Office C"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_video_011",
+    "question": "Did both July 2nd in Office A and July 3rd in Office B have moments where no one appeared in the shot?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 2nd in Office A",
+      "C": "No, only in July 3rd in Office B"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_012",
+    "question": "Which location had the most people appearing simultaneously: July 1st in Office C or July 3rd in Office B?",
+    "options": {
+      "A": "July 1st in Office C",
+      "B": "July 3rd in Office B",
+      "C": "Both had the same number of people"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_013",
+    "question": "Which location had a longer total time without anyone on camera: July 1st in Office B or July 2nd in Office C?",
+    "options": {
+      "A": "July 1st in Office B",
+      "B": "July 2nd in Office C",
+      "C": "Both had the same amount of time"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_014",
+    "question": "At 60 seconds on all three days, which location had the highest cumulative number of people?",
+    "options": {
+      "A": "July 1st in Office A",
+      "B": "July 2nd in Office B",
+      "C": "July 3rd in Office C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_015",
+    "question": "What is the maximum number of people who appeared simultaneously in all shots on all days?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "office_cross_video_016",
+    "question": "Was there any instance of special behavior (including fighting, falling, lying down, etc.) in these days?",
+    "options": {
+      "A": "Yes, in July 3rd in Office A, people lay down after working",
+      "B": "No",
+      "C": "Yes, in July 1st in Office A, people fought"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_017",
+    "question": "Did either July 2nd in Office A or July 2nd in Office B have a day where someone might have used a laptop (not a computer)?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 2nd in Office A",
+      "C": "No, only in July 2nd in Office B"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_018",
+    "question": "Which office may require wearing a safety jacket before leaving at the end of the day?",
+    "options": {
+      "A": "Office A",
+      "B": "Office B",
+      "C": "Office C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_019",
+    "question": "Did both July 1st  and July 2nd  have people standing for more than 60 seconds?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 1st ",
+      "C": "No, only in July 2nd "
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_020",
+    "question": "What item appeared in Office A but not in Office B?",
+    "options": {
+      "A": "Cabinet",
+      "B": "Whiteboard",
+      "C": "Desk lamp"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_021",
+    "question": "Did either July 2nd in Office A or July 2nd in Office B have people possibly using paper materials during work?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only in July 2nd in Office A",
+      "C": "No, only in July 2nd in Office B"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_video_022",
+    "question": "Did people use computers every day at each location?",
+    "options": {
+      "A": "Yes",
+      "B": "No, only at July 1st, Office A",
+      "C": "No, only at July 2nd, Office A"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_023",
+    "question": "What is the most likely purpose of these three offices?",
+    "options": {
+      "A": "Academic office",
+      "B": "Corporate office",
+      "C": "Private office"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "office_cross_video_024",
+    "question": "Based on the last behaviors of people in July 1st, Office A and July 1st, Office C, what did the last person to leave take with them?",
+    "options": {
+      "A": "Laptop",
+      "B": "Backpack",
+      "C": "Documents"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_video_025",
+    "question": "Which office had the most people possibly using multiple devices during work?",
+    "options": {
+      "A": "July 1st, Office A",
+      "B": "July 2nd, Office A",
+      "C": "July 3rd, Office B"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "office_cross_video_026",
+    "question": "Summarize the trends of people in each location over the three days.",
+    "options": {
+      "A": "July 1st, Office A and July 1st, Office C included both single-person work and group discussions, while July 1st, Office B mainly had single-person work",
+      "B": "July 1st, Office A was mainly for group discussions, while July 1st, Office B and July 1st, Office C had more individual work",
+      "C": "Most locations had similar activity patterns"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_action_qa_001",
+    "question": "Which video is about the Archery action?",
+    "options": {
+      "A": "v_egMsSva_u0w.mp4",
+      "B": "v_daYgAaw9Fyg.mp4",
+      "C": "v_uQ1S9Z58wkY.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_002",
+    "question": "Which video is about the Getting_a_piercing action?",
+    "options": {
+      "A": "v_k2leKfPyBbU.mp4",
+      "B": "v_BmCkb2ZZHjk.mp4",
+      "C": "v_PrjEF4lyckY.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_003",
+    "question": "Which video is about the Smoking_a_cigarette action?",
+    "options": {
+      "A": "v_CZ_fw5IZG5M.mp4",
+      "B": "v_VcxjCruOhU0.mp4",
+      "C": "v_6yTlpxLamho.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_action_qa_004",
+    "question": "Which video is about the Zumba action?",
+    "options": {
+      "A": "v_MGjg-PMHC0Q.mp4",
+      "B": "v_mWTMBZFdwvc.mp4",
+      "C": "v_VcxjCruOhU0.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_005",
+    "question": "Which video is about the Smoking_a_cigarette action?",
+    "options": {
+      "A": "v_mWTMBZFdwvc.mp4",
+      "B": "v_CZ_fw5IZG5M.mp4",
+      "C": "v_B7gMLUoolkk.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_006",
+    "question": "Which video is about the Canoeing action?",
+    "options": {
+      "A": "v_dg8abyA3e2I.mp4",
+      "B": "v_sU_CFLBbBPw.mp4",
+      "C": "v_oHTC7CdYbP4.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_007",
+    "question": "Which video is about the Smoking_a_cigarette action?",
+    "options": {
+      "A": "v_JJk9JpxHefs.mp4",
+      "B": "v_ujOgBfnmRI0.mp4",
+      "C": "v_q2JCtgboNs0.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_008",
+    "question": "Which video is about the Getting_a_piercing action?",
+    "options": {
+      "A": "v_XFx4E8hdLaM.mp4",
+      "B": "v_PrjEF4lyckY.mp4",
+      "C": "v_ujOgBfnmRI0.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_009",
+    "question": "Which video is about the Smoking_a_cigarette action?",
+    "options": {
+      "A": "v_4jqD1Q1LDu0.mp4",
+      "B": "v_CZ_fw5IZG5M.mp4",
+      "C": "v_4uGUa1xww0g.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_010",
+    "question": "Which video is about the Getting_a_piercing action?",
+    "options": {
+      "A": "v_MMCzGf6v7Ks.mp4",
+      "B": "v_ItuyWSCNDFI.mp4",
+      "C": "v_ujOgBfnmRI0.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_011",
+    "question": "Which video is about the Smoking_a_cigarette action?",
+    "options": {
+      "A": "v_Qa7OuI8e92M.mp4",
+      "B": "v_c51-m6kwPaM.mp4",
+      "C": "v_zr3BuNzhuhU.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_012",
+    "question": "Which video is about the Zumba action?",
+    "options": {
+      "A": "v_m2iWQxBkjiQ.mp4",
+      "B": "v_gzBwnt8mW88.mp4",
+      "C": "v_K1tK7kNDQZg.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_action_qa_013",
+    "question": "Which video is about the Getting_a_piercing action?",
+    "options": {
+      "A": "v_6yTlpxLamho.mp4",
+      "B": "v_B7gMLUoolkk.mp4",
+      "C": "v_JJk9JpxHefs.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_014",
+    "question": "Which video is about the Zumba action?",
+    "options": {
+      "A": "v_kg1bjRJ1y6w.mp4",
+      "B": "v_YMGDxZtneR0.mp4",
+      "C": "v_egMsSva_u0w.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_action_qa_015",
+    "question": "Which video is about the Archery action?",
+    "options": {
+      "A": "v_81hhcWrkRcE.mp4",
+      "B": "v_x_9K1p8IDQk.mp4",
+      "C": "v_dNt0-4az3iA.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_action_qa_016",
+    "question": "Which video is about the Zumba action?",
+    "options": {
+      "A": "v_9txzvu6eQuw.mp4",
+      "B": "v_4kNZhe64q74.mp4",
+      "C": "v_q2JCtgboNs0.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_action_qa_017",
+    "question": "Which video is about the Smoking_a_cigarette action?",
+    "options": {
+      "A": "v_dg8abyA3e2I.mp4",
+      "B": "v_daYgAaw9Fyg.mp4",
+      "C": "v_tt-TfBThkg8.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_018",
+    "question": "Which video is about the Getting_a_piercing action?",
+    "options": {
+      "A": "v_dg8abyA3e2I.mp4",
+      "B": "v_x_9K1p8IDQk.mp4",
+      "C": "v_v1Sv5KyngnA.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_019",
+    "question": "Which video is about the Zumba action?",
+    "options": {
+      "A": "v_MMCzGf6v7Ks.mp4",
+      "B": "v_Qa7OuI8e92M.mp4",
+      "C": "v_m2iWQxBkjiQ.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_020",
+    "question": "Which video is about the Getting_a_piercing action?",
+    "options": {
+      "A": "v_et8yGYkie0Q.mp4",
+      "B": "v_Tn6MD-rNE24.mp4",
+      "C": "v_z7cvmsashSc.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_021",
+    "question": "Which video is about the Canoeing action?",
+    "options": {
+      "A": "v_EwADzQCQcoQ.mp4",
+      "B": "v_Qa7OuI8e92M.mp4",
+      "C": "v_6ZXNcpm42n0.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_022",
+    "question": "Which video is about the Getting_a_piercing action?",
+    "options": {
+      "A": "v_et8yGYkie0Q.mp4",
+      "B": "v_XWyoGAZ19Ic.mp4",
+      "C": "v_m2iWQxBkjiQ.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_023",
+    "question": "Which video is about the Carving_jack-o-lanterns action?",
+    "options": {
+      "A": "v_uQ1S9Z58wkY.mp4",
+      "B": "v_4jqD1Q1LDu0.mp4",
+      "C": "v_v1Sv5KyngnA.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_024",
+    "question": "Which video is about the Zumba action?",
+    "options": {
+      "A": "v_4kNZhe64q74.mp4",
+      "B": "v_q2JCtgboNs0.mp4",
+      "C": "v_z1QB9GRLgIg.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_025",
+    "question": "Which video is about the Carving_jack-o-lanterns action?",
+    "options": {
+      "A": "v_x1SIoMP9soQ.mp4",
+      "B": "v_JJk9JpxHefs.mp4",
+      "C": "v_kTdsKGuIY2I.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_action_qa_026",
+    "question": "Which video is about the Smoking_a_cigarette action?",
+    "options": {
+      "A": "v_cKlv_mPwH4A.mp4",
+      "B": "v_UEHoJSfDXgU.mp4",
+      "C": "v_EwADzQCQcoQ.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_027",
+    "question": "Which video is about the Getting_a_piercing action?",
+    "options": {
+      "A": "v_c51-m6kwPaM.mp4",
+      "B": "v_GtxLir9mGYg.mp4",
+      "C": "v_Qa7OuI8e92M.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_028",
+    "question": "Which video is about the Getting_a_piercing action?",
+    "options": {
+      "A": "v_k2leKfPyBbU.mp4",
+      "B": "v_C9fJiD_j8Xg.mp4",
+      "C": "v_v1Sv5KyngnA.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_029",
+    "question": "Which video is about the Zumba action?",
+    "options": {
+      "A": "v_0Qs-Suk42dY.mp4",
+      "B": "v_BPv81IovZWo.mp4",
+      "C": "v_UEHoJSfDXgU.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_action_qa_030",
+    "question": "Which video is about the Canoeing action?",
+    "options": {
+      "A": "v_ujOgBfnmRI0.mp4",
+      "B": "v_x_9K1p8IDQk.mp4",
+      "C": "v_c51-m6kwPaM.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_031",
+    "question": "Which video is about the Smoking_a_cigarette action?",
+    "options": {
+      "A": "v_m9mG9Q9t8sE.mp4",
+      "B": "v_YMGDxZtneR0.mp4",
+      "C": "v_AyzXvyFF3mk.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_032",
+    "question": "Which video is about the Canoeing action?",
+    "options": {
+      "A": "v_z1QB9GRLgIg.mp4",
+      "B": "v_k2leKfPyBbU.mp4",
+      "C": "v_0VCYW8guu30.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_033",
+    "question": "Which video is about the Canoeing action?",
+    "options": {
+      "A": "v_k2leKfPyBbU.mp4",
+      "B": "v_m2iWQxBkjiQ.mp4",
+      "C": "v_MMCzGf6v7Ks.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_action_qa_034",
+    "question": "Which video is about the Zumba action?",
+    "options": {
+      "A": "v_q2JCtgboNs0.mp4",
+      "B": "v_tePLvy2jSoU.mp4",
+      "C": "v_r1RBHTg5Teo.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_035",
+    "question": "Which video is about the Getting_a_piercing action?",
+    "options": {
+      "A": "v_ItuyWSCNDFI.mp4",
+      "B": "v_ujOgBfnmRI0.mp4",
+      "C": "v_AyzXvyFF3mk.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_action_qa_036",
+    "question": "Which video is about the Zumba action?",
+    "options": {
+      "A": "v_Qa7OuI8e92M.mp4",
+      "B": "v_6ZXNcpm42n0.mp4",
+      "C": "v_YMGDxZtneR0.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_037",
+    "question": "Which video is about the Smoking_a_cigarette action?",
+    "options": {
+      "A": "v_0VCYW8guu30.mp4",
+      "B": "v_Stq283jnglg.mp4",
+      "C": "v_EwADzQCQcoQ.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_038",
+    "question": "Which video is about the Canoeing action?",
+    "options": {
+      "A": "v_Fs__tzgdMiQ.mp4",
+      "B": "v_XWyoGAZ19Ic.mp4",
+      "C": "v_4kNZhe64q74.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_039",
+    "question": "Which video is about the Carving_jack-o-lanterns action?",
+    "options": {
+      "A": "v_RYYpXXZnxro.mp4",
+      "B": "v_q2JCtgboNs0.mp4",
+      "C": "v_kTdsKGuIY2I.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_040",
+    "question": "Which video is about the Smoking_a_cigarette action?",
+    "options": {
+      "A": "v_sPM3M_G8EdM.mp4",
+      "B": "v_EwADzQCQcoQ.mp4",
+      "C": "v_c51-m6kwPaM.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_041",
+    "question": "Which video is about the Getting_a_piercing action?",
+    "options": {
+      "A": "v_v1Sv5KyngnA.mp4",
+      "B": "v_YMGDxZtneR0.mp4",
+      "C": "v_y3qMKw_2Plw.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_action_qa_042",
+    "question": "Which video is about the Canoeing action?",
+    "options": {
+      "A": "v_tt-TfBThkg8.mp4",
+      "B": "v_m9mG9Q9t8sE.mp4",
+      "C": "v_AyzXvyFF3mk.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_action_qa_043",
+    "question": "Which video is about the Smoking_a_cigarette action?",
+    "options": {
+      "A": "v_dDckyz2VhsU.mp4",
+      "B": "v_k2leKfPyBbU.mp4",
+      "C": "v_EwADzQCQcoQ.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_044",
+    "question": "Which video is about the Archery action?",
+    "options": {
+      "A": "v_EwADzQCQcoQ.mp4",
+      "B": "v_6yTlpxLamho.mp4",
+      "C": "v_cKlv_mPwH4A.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_045",
+    "question": "Which video is about the Zumba action?",
+    "options": {
+      "A": "v_y3qMKw_2Plw.mp4",
+      "B": "v_k2leKfPyBbU.mp4",
+      "C": "v_fyJ15G9O6g0.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_action_qa_046",
+    "question": "Which video is about the Getting_a_piercing action?",
+    "options": {
+      "A": "v_gzBwnt8mW88.mp4",
+      "B": "v_mEb3nm-zxcI.mp4",
+      "C": "v_4uGUa1xww0g.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_047",
+    "question": "Which video is about the Archery action?",
+    "options": {
+      "A": "v_et8yGYkie0Q.mp4",
+      "B": "v_BmCkb2ZZHjk.mp4",
+      "C": "v_XFx4E8hdLaM.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_action_qa_048",
+    "question": "Which video is about the Zumba action?",
+    "options": {
+      "A": "v_BPv81IovZWo.mp4",
+      "B": "v_dg8abyA3e2I.mp4",
+      "C": "v_Stq283jnglg.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_049",
+    "question": "Which video is about the Smoking_a_cigarette action?",
+    "options": {
+      "A": "v_4jqD1Q1LDu0.mp4",
+      "B": "v_YMGDxZtneR0.mp4",
+      "C": "v_H7SxSEGhWcU.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_action_qa_050",
+    "question": "Which video is about the Zumba action?",
+    "options": {
+      "A": "v_K1tK7kNDQZg.mp4",
+      "B": "v_81hhcWrkRcE.mp4",
+      "C": "v_C9fJiD_j8Xg.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_QA_001",
+    "question": "Did the shooting action in v_6yTlpxLamho.mp4 of 'Archery' and the paddling action in v_k2leKfPyBbU.mp4 of 'Canoeing' both start within the first 10 seconds?",
+    "options": {
+      "A": "No, only in v_6yTlpxLamho.mp4",
+      "B": "Yes",
+      "C": "Only in v_k2leKfPyBbU.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_QA_002",
+    "question": "Did the carving action in v_x1SIoMP9soQ.mp4 of 'Carving_jack-o-lanterns' and the piercing action in v_Stq283jnglg.mp4 of 'Getting_a_piercing' both end after 50 seconds?",
+    "options": {
+      "A": "No, only in v_x1SIoMP9soQ.mp4",
+      "B": "Yes",
+      "C": "Only in v_Stq283jnglg.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_QA_003",
+    "question": "Did the smoking action in v_YMGDxZtneR0.mp4 of 'Smoking_a_cigarette' and the dancing action in v_VcxjCruOhU0.mp4 of 'Zumba' both start within the first 5 seconds?",
+    "options": {
+      "A": "No, only in v_YMGDxZtneR0.mp4",
+      "B": "Yes",
+      "C": "Only in v_VcxjCruOhU0.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_QA_004",
+    "question": "Did the paddling action in v_UEHoJSfDXgU.mp4 of 'Canoeing' and the carving action in v_TeX0GJ0NB48.mp4 of 'Carving_jack-o-lanterns' both end after 120 seconds?",
+    "options": {
+      "A": "No, only in v_UEHoJSfDXgU.mp4",
+      "B": "Yes",
+      "C": "Only in v_TeX0GJ0NB48.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_QA_005",
+    "question": "Did the piercing action in v_Stq283jnglg.mp4 of 'Getting_a_piercing' and the smoking action in v_EwADzQCQcoQ.mp4 of 'Smoking_a_cigarette' both start after 20 seconds?",
+    "options": {
+      "A": "No, only in v_Stq283jnglg.mp4",
+      "B": "No, both of them start before 20 seconds",
+      "C": "Only in v_EwADzQCQcoQ.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_QA_006",
+    "question": "Did the shooting action in v_JLrC3ZPobUA.mp4 of 'Archery' and the dancing action in v_4uGUa1xww0g.mp4 of 'Zumba' both end before 100 seconds?",
+    "options": {
+      "A": "No, only in v_JLrC3ZPobUA.mp4",
+      "B": "Yes",
+      "C": "Only in v_4uGUa1xww0g.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_QA_007",
+    "question": "Did the shooting action in v_81hhcWrkRcE.mp4 of 'Archery' and the piercing action in v_RYYpXXZnxro.mp4 of 'Getting_a_piercing' both start within the first 15 seconds in any of their segments?",
+    "options": {
+      "A": "No, only in v_81hhcWrkRcE.mp4",
+      "B": "Yes",
+      "C": "Only in v_RYYpXXZnxro.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_QA_008",
+    "question": "Did the final occurrence of the paddling action in v_k2leKfPyBbU.mp4 of 'Canoeing' and the final occurrence of the smoking action in v_BmCkb2ZZHjk.mp4 of 'Smoking_a_cigarette' both end before 70 seconds?",
+    "options": {
+      "A": "No, only in v_k2leKfPyBbU.mp4",
+      "B": "Yes",
+      "C": "Only in v_BmCkb2ZZHjk.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_QA_009",
+    "question": "Did the carving action in v_TeX0GJ0NB48.mp4 of 'Carving_jack-o-lanterns' and the dancing action in v_VcxjCruOhU0.mp4 of 'Zumba' both start within the first 5 seconds?",
+    "options": {
+      "A": "No, only in v_TeX0GJ0NB48.mp4",
+      "B": "Yes",
+      "C": "Only in v_VcxjCruOhU0.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_QA_010",
+    "question": "Did the piercing action in v_Stq283jnglg.mp4 of 'Getting_a_piercing' and the smoking action in v_daYgAaw9Fyg.mp4 of 'Smoking_a_cigarette' both end after 30 seconds?",
+    "options": {
+      "A": "No, only in v_Stq283jnglg.mp4",
+      "B": "Yes",
+      "C": "Only in v_daYgAaw9Fyg.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_QA_011",
+    "question": "Did the smoking action in v_qm0VmCDybD0.mp4 of 'Smoking_a_cigarette' and the shooting action in v_JLrC3ZPobUA.mp4 of 'Archery' both end after 100 seconds?",
+    "options": {
+      "A": "No, only in v_qm0VmCDybD0.mp4",
+      "B": "Yes",
+      "C": "Only in v_JLrC3ZPobUA.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_QA_012",
+    "question": "Did the dancing action in v_VcxjCruOhU0.mp4 of 'Zumba' and the paddling action in v_UEHoJSfDXgU.mp4 of 'Canoeing' both start within the first 7 seconds?",
+    "options": {
+      "A": "No, only in v_VcxjCruOhU0.mp4",
+      "B": "Yes",
+      "C": "Only in v_UEHoJSfDXgU.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_QA_013",
+    "question": "Did the carving action in v_et8yGYkie0Q.mp4 of 'Carving_jack-o-lanterns' and the smoking action in v_BmCkb2ZZHjk.mp4 of 'Smoking_a_cigarette' both end after 50 seconds?",
+    "options": {
+      "A": "No, only in v_et8yGYkie0Q.mp4",
+      "B": "Yes",
+      "C": "Only in v_BmCkb2ZZHjk.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_cross_QA_014",
+    "question": "Did the shooting action in v_6yTlpxLamho.mp4 of 'Archery' and the Carving action in v_AWMn8bejYog.mp4 of 'Carving_jack-o-lanterns' both start within the first 3 seconds?",
+    "options": {
+      "A": "No, only in v_6yTlpxLamho.mp4",
+      "B": "Yes",
+      "C": "Only in v_AWMn8bejYog.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_cross_QA_015",
+    "question": "Did both v_CZ_fw5IZG5M.mp4 of 'Smoking_a_cigarette' and v_m2iWQxBkjiQ.mp4 of 'Zumba' have their actions start after 5 seconds?",
+    "options": {
+      "A": "No, only in v_CZ_fw5IZG5M.mp4",
+      "B": "Yes",
+      "C": "Only in v_m2iWQxBkjiQ.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_cross_QA_016",
+    "question": "Did both v_oHTC7CdYbP4.mp4 of 'Smoking_a_cigarette' and v_TeX0GJ0NB48.mp4 of 'Carving_jack-o-lanterns' have their actions end before 10 seconds?",
+    "options": {
+      "A": "No, only in v_oHTC7CdYbP4.mp4",
+      "B": "Yes",
+      "C": "Only in v_TeX0GJ0NB48.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_QA_001",
+    "question": "Did both v_qm0VmCDybD0.mp4 and v_EwADzQCQcoQ.mp4 of 'Smoking_a_cigarette' have the smoking action start within the first 10 seconds?",
+    "options": {
+      "A": "No, only in v_EwADzQCQcoQ.mp4",
+      "B": "Yes",
+      "C": "Only in v_qm0VmCDybD0.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_QA_002",
+    "question": "Did both v_daYgAaw9Fyg.mp4 and v_CZ_fw5IZG5M.mp4 of 'Smoking_a_cigarette' have the smoking action start at 0 seconds?",
+    "options": {
+      "A": "No, only in v_daYgAaw9Fyg.mp4",
+      "B": "Yes",
+      "C": "Only in v_CZ_fw5IZG5M.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_QA_003",
+    "question": "Did both v_m2iWQxBkjiQ.mp4 and v_VcxjCruOhU0.mp4 of 'Zumba' have the dancing action start within the first 5 seconds?",
+    "options": {
+      "A": "No, only in v_m2iWQxBkjiQ.mp4",
+      "B": "Yes",
+      "C": "Only in v_VcxjCruOhU0.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_QA_004",
+    "question": "Did both v_4uGUa1xww0g.mp4 and v_tePLvy2jSoU.mp4 of 'Zumba' have the dancing action end after 100 seconds?",
+    "options": {
+      "A": "No, only in v_4uGUa1xww0g.mp4",
+      "B": "Yes",
+      "C": "Only in v_tePLvy2jSoU.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_QA_005",
+    "question": "Did both v_6yTlpxLamho.mp4 and v_AyzXvyFF3mk.mp4 of 'Archery' have the shooting action start within the first 1 second?",
+    "options": {
+      "A": "No, only in v_6yTlpxLamho.mp4",
+      "B": "No,both of them don't have shooting action start within the first 1 second",
+      "C": "Only in v_AyzXvyFF3mk.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_QA_006",
+    "question": "Did both v_JLrC3ZPobUA.mp4 and v_stUEW6SAab4.mp4 of 'Archery' have the shooting action start at 20 seconds?",
+    "options": {
+      "A": "No, only in v_JLrC3ZPobUA.mp4",
+      "B": "Yes",
+      "C": "Only in v_stUEW6SAab4.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_QA_007",
+    "question": "Did both v_tt-TfBThkg8.mp4 and v_7El0-0Lgqe0.mp4 of 'Canoeing' have the paddling action start within the first 10 seconds?",
+    "options": {
+      "A": "No, only in v_tt-TfBThkg8.mp4",
+      "B": "Yes",
+      "C": "Only in v_7El0-0Lgqe0.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_QA_008",
+    "question": "Did both v_UEHoJSfDXgU.mp4 and v_H7SxSEGhWcU.mp4 of 'Canoeing' have the paddling action start at 0 seconds?",
+    "options": {
+      "A": "No, only in v_UEHoJSfDXgU.mp4",
+      "B": "Yes",
+      "C": "Only in v_H7SxSEGhWcU.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_QA_009",
+    "question": "Did both v_TeX0GJ0NB48.mp4 and v_AWMn8bejYog.mp4 of 'Carving_jack-o-lanterns' have the carving action start at 0 seconds?",
+    "options": {
+      "A": "No, only in v_TeX0GJ0NB48.mp4",
+      "B": "Yes",
+      "C": "Only in v_AWMn8bejYog.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_QA_010",
+    "question": "Did both v_et8yGYkie0Q.mp4 and v_egMsSva_u0w.mp4 of 'Carving_jack-o-lanterns' have the carving action start within the first 5 seconds?",
+    "options": {
+      "A": "No, only in v_et8yGYkie0Q.mp4",
+      "B": "Yes",
+      "C": "Only in v_egMsSva_u0w.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_QA_011",
+    "question": "Did both v_RYYpXXZnxro.mp4 and v_XWyoGAZ19Ic.mp4 of 'Getting_a_piercing' have the piercing action start before 10 seconds?",
+    "options": {
+      "A": "No, only in v_RYYpXXZnxro.mp4",
+      "B": "Yes",
+      "C": "Only in v_XWyoGAZ19Ic.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_QA_012",
+    "question": "Did both v_Stq283jnglg.mp4 and v_r1RBHTg5Teo.mp4 of 'Getting_a_piercing' have the piercing action start within the first 10 seconds?",
+    "options": {
+      "A": "No, only in v_Stq283jnglg.mp4",
+      "B": "Yes",
+      "C": "Only in v_r1RBHTg5Teo.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_QA_013",
+    "question": "Did both v_Stq283jnglg.mp4 and v_ItuyWSCNDFI.mp4 of 'Getting_a_piercing' have the piercing action start after 20 seconds?",
+    "options": {
+      "A": "No, only in v_Stq283jnglg.mp4",
+      "B": "Yes",
+      "C": "Only in v_ItuyWSCNDFI.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_QA_014",
+    "question": "Did both v_UEHoJSfDXgU.mp4 and v_7El0-0Lgqe0.mp4 of 'Canoeing' have the paddling action end after 60 seconds?",
+    "options": {
+      "A": "No, only in v_UEHoJSfDXgU.mp4",
+      "B": "Yes",
+      "C": "Only in v_7El0-0Lgqe0.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_QA_015",
+    "question": "Did both v_C9fJiD_j8Xg.mp4 and v_4uGUa1xww0g.mp4 of 'Zumba' have the Zumba action end before 200 seconds?",
+    "options": {
+      "A": "No, only in v_C9fJiD_j8Xg.mp4",
+      "B": "Yes",
+      "C": "Only in v_4uGUa1xww0g.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_QA_016",
+    "question": "Did both v_AWMn8bejYog.mp4 and v_x1SIoMP9soQ.mp4 of 'Carving_jack-o-lanterns' have the carving action start within the first 10 seconds in any of their segments?",
+    "options": {
+      "A": "No, only in v_AWMn8bejYog.mp4",
+      "B": "Yes",
+      "C": "Only in v_x1SIoMP9soQ.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_QA_017",
+    "question": "Did the final occurrence of the smoking action in each of v_YMGDxZtneR0.mp4 and v_qm0VmCDybD0.mp4 of 'Smoking_a_cigarette' end before 50 seconds?",
+    "options": {
+      "A": "No, only in v_YMGDxZtneR0.mp4",
+      "B": "Yes",
+      "C": "Only in v_qm0VmCDybD0.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_QA_018",
+    "question": "Did both v_JLrC3ZPobUA.mp4 and v_AyzXvyFF3mk.mp4 of 'Archery' have the  action start after 10 seconds?",
+    "options": {
+      "A": "No, only in v_JLrC3ZPobUA.mp4",
+      "B": "Yes",
+      "C": "Only in v_AyzXvyFF3mk.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_QA_019",
+    "question": "Did both v_JLrC3ZPobUA.mp4 and v_81hhcWrkRcE.mp4 of 'Archery' have the  action start within the first 10 seconds?",
+    "options": {
+      "A": "No, only in v_JLrC3ZPobUA.mp4",
+      "B": "Yes",
+      "C": "Only in v_81hhcWrkRcE.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_QA_020",
+    "question": "Did both v_stUEW6SAab4.mp4 and v_6yTlpxLamho.mp4 of 'Archery' have the  action end before 25 seconds?",
+    "options": {
+      "A": "No, only in v_stUEW6SAab4.mp4",
+      "B": "Yes",
+      "C": "Only in v_6yTlpxLamho.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_QA_021",
+    "question": "Which video of 'Archery', v_AyzXvyFF3mk.mp4 or v_6yTlpxLamho.mp4, has a longer total duration of  action?",
+    "options": {
+      "A": "v_AyzXvyFF3mk.mp4",
+      "B": "v_6yTlpxLamho.mp4",
+      "C": "They are equal"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_QA_022",
+    "question": "Did both v_H7SxSEGhWcU.mp4 and v_k2leKfPyBbU.mp4 of 'Canoeing' have the Canoeing action start before 10 seconds?",
+    "options": {
+      "A": "No, only in v_H7SxSEGhWcU.mp4",
+      "B": "Yes",
+      "C": "Only in v_k2leKfPyBbU.mp4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hacs_QA_023",
+    "question": "Did both v_UEHoJSfDXgU.mp4 and v_7El0-0Lgqe0.mp4 of 'Canoeing' have the Canoeing action end after 30 seconds?",
+    "options": {
+      "A": "No, only in v_UEHoJSfDXgU.mp4",
+      "B": "Yes",
+      "C": "Only in v_7El0-0Lgqe0.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_QA_024",
+    "question": "Did both v_TeX0GJ0NB48.mp4 and v_AWMn8bejYog.mp4 of 'Carving_jack-o-lanterns' have the carving action start at 0 seconds?",
+    "options": {
+      "A": "No, only in v_TeX0GJ0NB48.mp4",
+      "B": "Yes",
+      "C": "Only in v_AWMn8bejYog.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_QA_025",
+    "question": "Did both v_et8yGYkie0Q.mp4 and v_egMsSva_u0w.mp4 of 'Carving_jack-o-lanterns' have the carving action end after 50 seconds?",
+    "options": {
+      "A": "No, only in v_et8yGYkie0Q.mp4",
+      "B": "Yes",
+      "C": "Only in v_egMsSva_u0w.mp4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_QA_026",
+    "question": "Which video of 'Carving_jack-o-lanterns', v_x1SIoMP9soQ.mp4 or v_q2JCtgboNs0.mp4, has a longer carving action duration?",
+    "options": {
+      "A": "v_x1SIoMP9soQ.mp4",
+      "B": "v_q2JCtgboNs0.mp4",
+      "C": "They are equal"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hacs_QA_027",
+    "question": "Did both v_RYYpXXZnxro.mp4 and v_Stq283jnglg.mp4 of 'Getting_a_piercing' have the piercing action start at 0 seconds?",
+    "options": {
+      "A": "No, only in v_RYYpXXZnxro.mp4",
+      "B": "Yes",
+      "C": "Only in v_Stq283jnglg.mp4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hacs_QA_028",
+    "question": "Did both v_Stq283jnglg.mp4 and v_ItuyWSCNDFI.mp4 of 'Getting_a_piercing' have the piercing action end after 40 seconds?",
+    "options": {
+      "A": "No, only in v_Stq283jnglg.mp4",
+      "B": "Yes",
+      "C": "Only in v_ItuyWSCNDFI.mp4"
+    },
+    "answer": "C"
+  }
+]

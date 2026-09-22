@@ -1,0 +1,621 @@
+[
+  {
+    "id": "office_day_1",
+    "dataset": "Office",
+    "source_filename": "day_1.avi",
+    "synthetic_context": {
+      "day": 1,
+      "date_label": "July 1",
+      "room": "Office A"
+    },
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "office_day_2",
+    "dataset": "Office",
+    "source_filename": "day_2.avi",
+    "synthetic_context": {
+      "day": 2,
+      "date_label": "July 2",
+      "room": "Office A"
+    },
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "office_day_6",
+    "dataset": "Office",
+    "source_filename": "day_6.avi",
+    "synthetic_context": {
+      "day": 3,
+      "date_label": "July 3",
+      "room": "Office A"
+    },
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "office_day_15",
+    "dataset": "Office",
+    "source_filename": "day_15.avi",
+    "synthetic_context": {
+      "day": 1,
+      "date_label": "July 1",
+      "room": "Office B"
+    },
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "office_day_16",
+    "dataset": "Office",
+    "source_filename": "day_16.avi",
+    "synthetic_context": {
+      "day": 2,
+      "date_label": "July 2",
+      "room": "Office B"
+    },
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "office_day_17",
+    "dataset": "Office",
+    "source_filename": "day_17.avi",
+    "synthetic_context": {
+      "day": 3,
+      "date_label": "July 3",
+      "room": "Office B"
+    },
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "office_day_18",
+    "dataset": "Office",
+    "source_filename": "day_18.avi",
+    "synthetic_context": {
+      "day": 1,
+      "date_label": "July 1",
+      "room": "Office C"
+    },
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "office_day_19",
+    "dataset": "Office",
+    "source_filename": "day_19.avi",
+    "synthetic_context": {
+      "day": 2,
+      "date_label": "July 2",
+      "room": "Office C"
+    },
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "office_day_20",
+    "dataset": "Office",
+    "source_filename": "day_20.avi",
+    "synthetic_context": {
+      "day": 3,
+      "date_label": "July 3",
+      "room": "Office C"
+    },
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_0Qs-Suk42dY",
+    "dataset": "HACS",
+    "source_filename": "v_0Qs-Suk42dY.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_0VCYW8guu30",
+    "dataset": "HACS",
+    "source_filename": "v_0VCYW8guu30.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_4jqD1Q1LDu0",
+    "dataset": "HACS",
+    "source_filename": "v_4jqD1Q1LDu0.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_4kNZhe64q74",
+    "dataset": "HACS",
+    "source_filename": "v_4kNZhe64q74.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_4uGUa1xww0g",
+    "dataset": "HACS",
+    "source_filename": "v_4uGUa1xww0g.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_6ZXNcpm42n0",
+    "dataset": "HACS",
+    "source_filename": "v_6ZXNcpm42n0.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_6yTlpxLamho",
+    "dataset": "HACS",
+    "source_filename": "v_6yTlpxLamho.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_7El0-0Lgqe0",
+    "dataset": "HACS",
+    "source_filename": "v_7El0-0Lgqe0.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_81hhcWrkRcE",
+    "dataset": "HACS",
+    "source_filename": "v_81hhcWrkRcE.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_9txzvu6eQuw",
+    "dataset": "HACS",
+    "source_filename": "v_9txzvu6eQuw.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_AWMn8bejYog",
+    "dataset": "HACS",
+    "source_filename": "v_AWMn8bejYog.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_AyzXvyFF3mk",
+    "dataset": "HACS",
+    "source_filename": "v_AyzXvyFF3mk.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_B7gMLUoolkk",
+    "dataset": "HACS",
+    "source_filename": "v_B7gMLUoolkk.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_BPv81IovZWo",
+    "dataset": "HACS",
+    "source_filename": "v_BPv81IovZWo.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_BmCkb2ZZHjk",
+    "dataset": "HACS",
+    "source_filename": "v_BmCkb2ZZHjk.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_C9fJiD_j8Xg",
+    "dataset": "HACS",
+    "source_filename": "v_C9fJiD_j8Xg.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_CZ_fw5IZG5M",
+    "dataset": "HACS",
+    "source_filename": "v_CZ_fw5IZG5M.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_EwADzQCQcoQ",
+    "dataset": "HACS",
+    "source_filename": "v_EwADzQCQcoQ.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_Fs__tzgdMiQ",
+    "dataset": "HACS",
+    "source_filename": "v_Fs__tzgdMiQ.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_GtxLir9mGYg",
+    "dataset": "HACS",
+    "source_filename": "v_GtxLir9mGYg.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_H7SxSEGhWcU",
+    "dataset": "HACS",
+    "source_filename": "v_H7SxSEGhWcU.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_ItuyWSCNDFI",
+    "dataset": "HACS",
+    "source_filename": "v_ItuyWSCNDFI.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_JJk9JpxHefs",
+    "dataset": "HACS",
+    "source_filename": "v_JJk9JpxHefs.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_JLrC3ZPobUA",
+    "dataset": "HACS",
+    "source_filename": "v_JLrC3ZPobUA.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_K1tK7kNDQZg",
+    "dataset": "HACS",
+    "source_filename": "v_K1tK7kNDQZg.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_MGjg-PMHC0Q",
+    "dataset": "HACS",
+    "source_filename": "v_MGjg-PMHC0Q.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_MMCzGf6v7Ks",
+    "dataset": "HACS",
+    "source_filename": "v_MMCzGf6v7Ks.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_PrjEF4lyckY",
+    "dataset": "HACS",
+    "source_filename": "v_PrjEF4lyckY.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_Qa7OuI8e92M",
+    "dataset": "HACS",
+    "source_filename": "v_Qa7OuI8e92M.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_RYYpXXZnxro",
+    "dataset": "HACS",
+    "source_filename": "v_RYYpXXZnxro.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_Stq283jnglg",
+    "dataset": "HACS",
+    "source_filename": "v_Stq283jnglg.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_TeX0GJ0NB48",
+    "dataset": "HACS",
+    "source_filename": "v_TeX0GJ0NB48.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_Tn6MD-rNE24",
+    "dataset": "HACS",
+    "source_filename": "v_Tn6MD-rNE24.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_UEHoJSfDXgU",
+    "dataset": "HACS",
+    "source_filename": "v_UEHoJSfDXgU.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_VcxjCruOhU0",
+    "dataset": "HACS",
+    "source_filename": "v_VcxjCruOhU0.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_XFx4E8hdLaM",
+    "dataset": "HACS",
+    "source_filename": "v_XFx4E8hdLaM.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_XWyoGAZ19Ic",
+    "dataset": "HACS",
+    "source_filename": "v_XWyoGAZ19Ic.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_YMGDxZtneR0",
+    "dataset": "HACS",
+    "source_filename": "v_YMGDxZtneR0.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_c51-m6kwPaM",
+    "dataset": "HACS",
+    "source_filename": "v_c51-m6kwPaM.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_cKlv_mPwH4A",
+    "dataset": "HACS",
+    "source_filename": "v_cKlv_mPwH4A.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_dDckyz2VhsU",
+    "dataset": "HACS",
+    "source_filename": "v_dDckyz2VhsU.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_dNt0-4az3iA",
+    "dataset": "HACS",
+    "source_filename": "v_dNt0-4az3iA.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_daYgAaw9Fyg",
+    "dataset": "HACS",
+    "source_filename": "v_daYgAaw9Fyg.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_dg8abyA3e2I",
+    "dataset": "HACS",
+    "source_filename": "v_dg8abyA3e2I.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_egMsSva_u0w",
+    "dataset": "HACS",
+    "source_filename": "v_egMsSva_u0w.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_et8yGYkie0Q",
+    "dataset": "HACS",
+    "source_filename": "v_et8yGYkie0Q.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_fyJ15G9O6g0",
+    "dataset": "HACS",
+    "source_filename": "v_fyJ15G9O6g0.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_gzBwnt8mW88",
+    "dataset": "HACS",
+    "source_filename": "v_gzBwnt8mW88.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_k2leKfPyBbU",
+    "dataset": "HACS",
+    "source_filename": "v_k2leKfPyBbU.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_kTdsKGuIY2I",
+    "dataset": "HACS",
+    "source_filename": "v_kTdsKGuIY2I.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_kg1bjRJ1y6w",
+    "dataset": "HACS",
+    "source_filename": "v_kg1bjRJ1y6w.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_m2iWQxBkjiQ",
+    "dataset": "HACS",
+    "source_filename": "v_m2iWQxBkjiQ.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_m9mG9Q9t8sE",
+    "dataset": "HACS",
+    "source_filename": "v_m9mG9Q9t8sE.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_mEb3nm-zxcI",
+    "dataset": "HACS",
+    "source_filename": "v_mEb3nm-zxcI.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_mWTMBZFdwvc",
+    "dataset": "HACS",
+    "source_filename": "v_mWTMBZFdwvc.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_oHTC7CdYbP4",
+    "dataset": "HACS",
+    "source_filename": "v_oHTC7CdYbP4.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_q2JCtgboNs0",
+    "dataset": "HACS",
+    "source_filename": "v_q2JCtgboNs0.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_qm0VmCDybD0",
+    "dataset": "HACS",
+    "source_filename": "v_qm0VmCDybD0.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_r1RBHTg5Teo",
+    "dataset": "HACS",
+    "source_filename": "v_r1RBHTg5Teo.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_sPM3M_G8EdM",
+    "dataset": "HACS",
+    "source_filename": "v_sPM3M_G8EdM.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_sU_CFLBbBPw",
+    "dataset": "HACS",
+    "source_filename": "v_sU_CFLBbBPw.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_stUEW6SAab4",
+    "dataset": "HACS",
+    "source_filename": "v_stUEW6SAab4.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_tePLvy2jSoU",
+    "dataset": "HACS",
+    "source_filename": "v_tePLvy2jSoU.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_tt-TfBThkg8",
+    "dataset": "HACS",
+    "source_filename": "v_tt-TfBThkg8.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_uQ1S9Z58wkY",
+    "dataset": "HACS",
+    "source_filename": "v_uQ1S9Z58wkY.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_ujOgBfnmRI0",
+    "dataset": "HACS",
+    "source_filename": "v_ujOgBfnmRI0.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_v1Sv5KyngnA",
+    "dataset": "HACS",
+    "source_filename": "v_v1Sv5KyngnA.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_x1SIoMP9soQ",
+    "dataset": "HACS",
+    "source_filename": "v_x1SIoMP9soQ.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_x_9K1p8IDQk",
+    "dataset": "HACS",
+    "source_filename": "v_x_9K1p8IDQk.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_y3qMKw_2Plw",
+    "dataset": "HACS",
+    "source_filename": "v_y3qMKw_2Plw.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_z1QB9GRLgIg",
+    "dataset": "HACS",
+    "source_filename": "v_z1QB9GRLgIg.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_z7cvmsashSc",
+    "dataset": "HACS",
+    "source_filename": "v_z7cvmsashSc.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  },
+  {
+    "id": "hacs_v_zr3BuNzhuhU",
+    "dataset": "HACS",
+    "source_filename": "v_zr3BuNzhuhU.mp4",
+    "time_unit": "seconds",
+    "time_origin": "start_of_video"
+  }
+]
